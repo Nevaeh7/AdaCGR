@@ -1,0 +1,18 @@
+{
+  "calibration_losses": [1.0, 1.0, 1.0, 1.0],
+  "batches": [
+    {
+      "losses": [1.1, 1.1],
+      "feedback_count": 2,
+      "eligible_count": 2,
+      "available_steps": 1
+    },
+    {
+      "losses": [1.2, 1.2],
+      "feedback_count": 2,
+      "eligible_count": 2,
+      "available_steps": 2,
+      "post_fit_calibration_losses": [1.0, 1.0, 1.0]
+    }
+  ]
+}

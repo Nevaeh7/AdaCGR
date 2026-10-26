@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+# Do not add private experiment material to this repository.
+data/
+checkpoints/
+outputs/
+runs/
+logs/
+*.pth
+*.pt
+*.ckpt
+*.parquet
+*.npy
+*.npz
+*.jsonl
